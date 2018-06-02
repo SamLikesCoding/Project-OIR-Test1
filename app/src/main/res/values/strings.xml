@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OIR</string>
+    <string name="bbcone">BBC One</string>
+    <string name="bbctwo">BBC Two</string>
+</resources>

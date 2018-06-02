@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1033387327466",
+    "firebase_url": "https://project-oir.firebaseio.com",
+    "project_id": "project-oir",
+    "storage_bucket": "project-oir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033387327466:android:45711172468596f1",
+        "android_client_info": {
+          "package_name": "radio.sa.com.oir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033387327466-v406hfcgtdo0s9f78dfeu0t5sk2lmnr2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1033387327466-v406hfcgtdo0s9f78dfeu0t5sk2lmnr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfvJun1ywda5pgqaUmfbxQSSEyJ5LKqJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
